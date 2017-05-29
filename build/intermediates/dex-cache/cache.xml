@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_0901e83ec824d477c0dc353e6912f974d691549f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_4bbb7c966a943a2c0af227523c7bc03457654dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_928d0f95a566dc2f40fc2c9f80b6bbf25192dc90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_de58554503e012123f474bcde0beac94001718d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_57e7dd9a12903480458a756f1dd194c12d30b20d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_d3acae2e049362a25cf4f11fea5914d6670a45c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_d48d828a83bac5fd9c6182d928166fe71c6b25d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_72235ba5ae1765caa5ec75fee796d5c3b24b1243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_08d13dde827b20b01f160859ad0985cb6c3133f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\ss4ne\AndroidStudioProjects\Bus\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_19c491edcf028ceb2e4b886a0f4d07e48cc90b72.jar" />
+    </item>
+
+</items>
